@@ -5,6 +5,8 @@
 + https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975
 + https://github.com/gtechsltn/AspNetCore.CleanArchitecture
 + https://github.com/gtechsltn/AspNetCore.Cqrs
++ Sample eCommerce application using Domain-Driven Design
++ https://github.com/gtechsltn/DDDMart
 
 An opinionated **ASP.NET Core** solution setup for creating web applications using **Clean Architecture** and **Domain-Driven Design** principles.
 
