@@ -4,6 +4,7 @@
 + https://betterprogramming.pub/choosing-a-cqrs-architecture-that-works-for-you-02619555b0a0
 + https://betterprogramming.pub/domain-driven-design-domain-events-and-integration-events-in-net-5a2a58884aaa
 + https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975
++ https://www.quora.com/What-are-the-advantages-of-Entity-Framework
 
 ## Clean Architecture
 + https://github.com/gtechsltn/AspNetCore.CleanArchitecture
